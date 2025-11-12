@@ -1,9 +1,9 @@
-# 🌐 Professional Portfolio – Amit Kumar Pati
+# 🌐 Professional Portfolio – Amit Kumar Pati [Click Here](https://sanuamit.github.io/Portfolio_Web/)
 
 🎓 **Master of Computer Application (MCA) | Bachelor of Computer Applications (BCA)**  
 📍 Sripura, Pubasahi, Jajpur, Odisha, India – 755006  
 📞 (+91) 8018543476 | 📧 apati9587@gmail.com  
-🔗 [GitHub](https://github.com/sanuamit) | [Portfolio](https://sanuamit.github.io/new/) | [LinkedIn](#)
+🔗 [GitHub](https://github.com/sanuamit) | [Portfolio](https://sanuamit.github.io/new/) | [LinkedIn](https://www.linkedin.com/in/amit-kumar-pati-975351241)
 
 ---
 
