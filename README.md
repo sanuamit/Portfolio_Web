@@ -147,7 +147,7 @@ Critical Thinking • Emotional & Social Intelligence • Creativity • Stress 
 📍 **Location:** Jajpur, Odisha, India  
 📧 **Email:** [apati9587@gmail.com](mailto:apati9587@gmail.com)  
 📞 **Phone:** +91 8018543476  
-🌐 **Portfolio:** [https://sanuamit.github.io/new/](https://sanuamit.github.io/new/)  
+🌐 **Portfolio:** [https://sanuamit.github.io/new/](https://sanuamit.github.io/Portfolio_Web/)  
 💻 **GitHub:** [github.com/sanuamit](https://github.com/sanuamit)  
 🔗 **LinkedIn:** [Add your LinkedIn profile link here]
 
