@@ -1,0 +1,1 @@
+Place your final resume PDF in the public folder and name it resume.pdf. The download links point to /resume.pdf.
